@@ -1,4 +1,4 @@
-module github.com/UserExistsError/conpty
+module github.com/terrywh/conpty
 
 go 1.15
 
